@@ -1,2 +1,2 @@
-# Minisumo-board-M83-MOdel
+# Minisumo-board-M87-MOdel
 Minisumo PCB
